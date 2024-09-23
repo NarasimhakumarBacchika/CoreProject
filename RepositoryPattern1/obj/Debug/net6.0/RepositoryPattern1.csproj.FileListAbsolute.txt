@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\bin\Debug\net6.0\RepositoryPattern1.deps.json
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\bin\Debug\net6.0\RepositoryPattern1.dll
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\bin\Debug\net6.0\RepositoryPattern1.pdb
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.dll
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\refint\RepositoryPattern1.dll
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.pdb
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\ref\RepositoryPattern1.dll
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\bin\Debug\net6.0\RepositoryPattern1.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\YuvaSree C# pratice\UserRegistraction\RepositoryPattern1\obj\Debug\net6.0\RepositoryPattern1.genruntimeconfig.cache
